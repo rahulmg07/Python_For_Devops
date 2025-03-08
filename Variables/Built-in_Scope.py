@@ -1,0 +1,1 @@
+print(len([1, 2, 3])) # len is a built-in function
